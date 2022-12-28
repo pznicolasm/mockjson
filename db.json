@@ -1,0 +1,7 @@
+{
+  "users" [
+  { "dni": 35610209, "habilitado": si} ,
+  { "dni": 14105287, "habilitado": no},
+  { "dni": 36374274, "habilitado": no}
+  ]
+}
